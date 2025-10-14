@@ -1,7 +1,7 @@
 
 # PCB Test Rig (Aluminum Extrusion Frame) — Assembly Guide
 
-> **Purpose**: This document explains how to assemble the PCB board test skeleton shown below. It’s written to be pasted into your repo as `README.md` (or `docs/assembly.md`).
+> **Purpose**: This document explains how to assemble the PCB test stand shown below. It’s written to be pasted into your repo as `README.md` (or `docs/assembly.md`).
 
 ![Front view](docs/images/front-view.jpg)
 ![Side view](docs/images/side-view.jpg)
