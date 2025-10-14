@@ -178,7 +178,7 @@ Happy testing!
 
 ### Photo References
 Front view (example):  
-![Front view](docs/images/front-view.jpg)
+![Front view](docs/IMG_8554.jpeg)
 
 Side view (example):  
-![Side view](docs/images/side-view.jpg)
+![Side view](docs/IMG_8553.jpeg)
