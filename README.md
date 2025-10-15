@@ -1,14 +1,13 @@
 
 # PCB Test Stand — Assembly Guide
 
-> **Purpose**: This document explains how to assemble the PCB test stand shown below. It’s written to be pasted into your repo as `README.md` (or `docs/assembly.md`).
+> **Purpose**: This document explains how to assemble the PCB test stand shown below.
 
-![Front view](docs/images/front-view.jpg)
-![Side view](docs/images/side-view.jpg)
 
-> Replace the two image file paths above with your actual image locations on GitHub (e.g., `docs/images/front-view.jpg`).
+![Front view](docs/IMG_8554.jpeg)
+![Side view](docs/IMG_8553.jpeg)
 
----
+
 
 ## 1) Overview
 
