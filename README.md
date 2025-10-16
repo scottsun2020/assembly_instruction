@@ -75,6 +75,10 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 1. Lay the **two base rails** parallel on the bench. Install **end caps**.  
 2. Position the **base plate** centered across the rails. Loosely fasten with M5 screws + washers into T‑nuts. Do **not** fully tighten.  
 3. Attach **front rod‑end tabs** (if used) to the front of the base plate/rails with two M5 screws each; keep loose for now.
+![IMG_8559](https://github.com/user-attachments/assets/f2ae9c2e-a850-46fd-bb16-b72926b8532c)
+![IMG_8561](https://github.com/user-attachments/assets/28b365ab-1d5b-4870-adca-b31811cb086d)
+![IMG_8560](https://github.com/user-attachments/assets/bad6647e-ed8f-4eac-ace3-3cd9bd078f80)
+![IMG_8562](https://github.com/user-attachments/assets/36e4a38e-5389-49d3-8ee3-d3beb0b624d0)
 
 **Square & Level Check**  
 - Measure the base plate **edge to rail** distances on both sides; make them equal.  
