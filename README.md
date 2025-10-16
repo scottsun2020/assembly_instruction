@@ -101,13 +101,12 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 3. Adjust the **block spacing** so both rods are parallel and the crosshead does not bind. Tighten the clamp screws lightly (≈2 N·m).
 
 > **Smoothness test**: Raise the crosshead ~100 mm and let go. It should descend smoothly without sticking. If it binds, loosen clamps, tap the rod ends gently, and re‑square.
-![IMG_8598](https://github.com/user-attachments/assets/7f15b0a8-f7f1-4cb6-8119-b950b32c33b1)
-![IMG_8600](https://github.com/user-attachments/assets/9eb64cc9-5ce1-439d-8147-57d75ded625c)
-![IMG_8601](https://github.com/user-attachments/assets/17711f1e-83ec-445c-b210-b20d132f27c9)
 
 ![IMG_8597](https://github.com/user-attachments/assets/03543b9f-e396-4ffb-be50-52cda04ed0e0)
 ![IMG_8595](https://github.com/user-attachments/assets/65625db8-34d1-4ea0-8500-b62cb51607b7)
-
+![IMG_8598](https://github.com/user-attachments/assets/7f15b0a8-f7f1-4cb6-8119-b950b32c33b1)
+![IMG_8600](https://github.com/user-attachments/assets/9eb64cc9-5ce1-439d-8147-57d75ded625c)
+![IMG_8601](https://github.com/user-attachments/assets/17711f1e-83ec-445c-b210-b20d132f27c9)
 
 
 ### D. Install Crossbars
