@@ -93,9 +93,18 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 </p>
 
 ### B. Install Uprights
-(keep the text — add images as HTML if needed)
+1. Bolt **L‑brackets** to the rails at the back corners (left/right). Leave screws **finger‑tight**.  
+2. Stand the **uprights** vertically into the L‑brackets. Ensure the rear faces are flush to bracket shoulders.  
+3. Using a small **square**, set each upright to 90° relative to the base. Tighten bracket screws to **3–4 N·m**.  
+4. Fit the **triangular side plates** to tie the uprights to the base rails. Tighten to 3–4 N·m.
 
 ### C. Install Crossbars
+1. Insert the **linear rods** through the **lower carriage blocks**, then into the **upper blocks** mounted on the crosshead brackets.  
+2. Slide the assembly between uprights. Secure the **rod clamps** (on the yellow crosshead pieces) so the crosshead moves smoothly without racking.  
+3. Adjust the **block spacing** so both rods are parallel and the crosshead does not bind. Tighten the clamp screws lightly (≈2 N·m).
+
+> **Smoothness test**: Raise the crosshead ~100 mm and let go. It should descend smoothly without sticking. If it binds, loosen clamps, tap the rod ends gently, and re‑square.
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a647061d-2ba7-4299-83a3-c3778472c2be" width="400"/>
   <img src="https://github.com/user-attachments/assets/8c77d821-9efb-42ad-86d4-ed23b6cda994" width="400"/>
@@ -103,6 +112,10 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 </p>
 
 ### D. Fit Linear Guide & Crosshead
+
+1. Add the **two horizontal 2020 crossbars** between uprights at the top and mid‑section using M5 screws/T‑nuts in the side slots.  
+2. Ensure both crossbars are level and parallel; then tighten to 3–4 N·m. These can support probe holders, cameras, or cable guides.
+   
 <p align="center">
   <img src="https://github.com/user-attachments/assets/03543b9f-e396-4ffb-be50-52cda04ed0e0" width="400"/>
   <img src="https://github.com/user-attachments/assets/65625db8-34d1-4ea0-8500-b62cb51607b7" width="400"/>
@@ -112,6 +125,9 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 </p>
 
 ### E. Mount PCB Standoffs
+1. Thread **M3 standoffs** into the base plate’s mounting pattern.  
+2. Verify spacing matches your target PCB. Adjust/add hole adapters if needed.  
+3. Add **thumb screws** or M3 screws from top to secure the PCB during tests.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f7056a92-ff27-441c-ac38-8fb89491d9c7" width="400"/>
   <img src="https://github.com/user-attachments/assets/f183a103-90b1-49fb-8005-fe385094ed4f" width="400"/>
@@ -121,12 +137,43 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 </p>
 
 ### F. Final Tightening & Safety
+- Re‑check all joints; apply medium threadlocker where final.  
+- Confirm there are **no sharp edges** protruding into operator area.  
+- Add **rubber feet** to base rails if the rig will sit on a sensitive benchtop.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d3b3b9b5-dc56-406a-b786-8add3a05a39c" width="400"/>
   <img src="https://github.com/user-attachments/assets/b39a6659-3642-47ea-9729-08cb558ee2eb" width="400"/>
 </p>
 
 ---
+
+
+## 6) Alignment & QA Checklist
+
+- [ ] Base plate centered; equal setback from both rails.  
+- [ ] Uprights square to base (≤0.5°).  
+- [ ] Crosshead travels smoothly full stroke; no racking/binding.  
+- [ ] Crossbars level and parallel (±0.5 mm over span).  
+- [ ] All M5 hardware torqued to 3–4 N·m; threadlocker used where appropriate.  
+- [ ] PCB standoffs match board hole pattern; board sits flat without rocking.  
+- [ ] No collisions between moving parts and PCB/work area.
+
+---
+
+## 7) Mounting Accessories
+
+- **Probe holders / spring pins**: attach to the crosshead or crossbars using T‑nuts.  
+- **Cable strain relief**: zip‑tie anchors into the side slots.  
+- **Camera/light**: add an L‑plate to the top crossbar.  
+- **ESD**: bond the base plate to ground with a ring terminal + M5 screw.
+
+---
+
+## 8) Maintenance
+
+- Inspect screws monthly; re‑torque loose joints.  
+- Wipe rods with lint‑free cloth; add a thin film of light machine oil if needed.  
+- Replace worn printed brackets if cracks appear.
 
 ### Reference and Compare
 
