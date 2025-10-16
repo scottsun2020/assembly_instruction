@@ -20,9 +20,9 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 
 | # | Item | Spec / Notes | Qty |
 |---|------|---------------|-----|
-| 1 | 2020 aluminum extrusion – **base rails** | Length: __TODO__ mm (2 pcs) | 2 |
-| 2 | 2020 aluminum extrusion – **uprights** | Length: __TODO__ mm (2 pcs) | 2 |
-| 3 | 2020 aluminum extrusion – **crossbars** | Length: __TODO__ mm (2 pcs) | 2 |
+| 1 | 2020 aluminum extrusion – **base rails** | Length: 1" x 1" x 1' mm (2 pcs) | 2 |
+| 2 | 2020 aluminum extrusion – **uprights** | Length: 1" x 1" x 1' mm (2 pcs) | 2 |
+| 3 | 2020 aluminum extrusion – **crossbars** | Length: 1" x 1" x 1/2' mm (2 pcs) | 2 |
 | 4 | **Base plate** (machined/printed) | Hole pattern for M3/M4/M5; countersunk | 1 |
 | 5 | **Corner brackets** (yellow in photo) | L or triangular plates | 4 large + 2 triangular |
 | 6 | **Linear guide rods** | Ø __TODO__ mm × __TODO__ mm | 2 |
