@@ -83,7 +83,7 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
   <img src="https://github.com/user-attachments/assets/36e4a38e-5389-49d3-8ee3-d3beb0b624d0" width="400"/>
 </p>
 
-**Square & Level Check**  
+**Install Supports to hold the Vertical Rod**  
 - Measure the base plate **edge to rail** distances on both sides; make them equal.  
 - Tighten base plate screws uniformly to ~3 N·m.
 
@@ -114,7 +114,7 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
   <img src="https://github.com/user-attachments/assets/724e79f0-94b9-45ae-9648-893e274513ae" width="400"/>
 </p>
 
-### D. Fit Linear Guide & Crosshead
+### D. Install Test Board Top Part
 
 1. Add the **two horizontal 2020 crossbars** between uprights at the top and mid‑section using M5 screws/T‑nuts in the side slots.  
 2. Ensure both crossbars are level and parallel; then tighten to 3–4 N·m. These can support probe holders, cameras, or cable guides.
@@ -127,7 +127,7 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
   <img src="https://github.com/user-attachments/assets/17711f1e-83ec-445c-b210-b20d132f27c9" width="400"/>
 </p>
 
-### E. Mount PCB Standoffs
+### E. Attach Toggle Clamp on Cross Bar
 1. Thread **M3 standoffs** into the base plate’s mounting pattern.  
 2. Verify spacing matches your target PCB. Adjust/add hole adapters if needed.  
 3. Add **thumb screws** or M3 screws from top to secure the PCB during tests.
