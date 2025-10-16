@@ -25,7 +25,7 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 | 3 | 2020 aluminum extrusion – **crossbars** | Length: 1" x 1" x 1/2' mm (2 pcs) | 2 |
 | 4 | **Base plate** (machined/printed) | Hole pattern for M3/M4/M5; countersunk | 1 |
 | 5 | **Corner brackets** (yellow in photo) | L or triangular plates | 4 large + 2 triangular |
-| 6 | **Linear guide rods** | Ø __TODO__ mm × __TODO__ mm | 2 |
+| 6 | **Linear Motion Shaft** | Ø 3/8" mm × 6" mm long | 2 |
 | 7 | **Crosshead carriage blocks** | Slide on rods; includes clamp screws | 2 |
 | 8 | **Rod ends / ball joints** | For linkage/fixture (seen at front) | 2 |
 | 9 | **PCB standoffs** | M3 × __TODO__ height | 4–6 |
