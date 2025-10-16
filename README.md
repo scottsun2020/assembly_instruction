@@ -52,6 +52,9 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 - Threadlocker (medium strength)
 - Soft‑jaw pliers (optional for rod ends)
 - Spirit level (optional)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b7128ef-6d07-41df-b696-d0f98b1f4d09" width="400"/>
+</p>
 
 ---
 
