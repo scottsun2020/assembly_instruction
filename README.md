@@ -132,6 +132,8 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 - Re‑check all joints; apply medium threadlocker where final.  
 - Confirm there are **no sharp edges** protruding into operator area.  
 - Add **rubber feet** to base rails if the rig will sit on a sensitive benchtop.
+![IMG_8630](https://github.com/user-attachments/assets/d3b3b9b5-dc56-406a-b786-8add3a05a39c)
+![IMG_8629](https://github.com/user-attachments/assets/b39a6659-3642-47ea-9729-08cb558ee2eb)
 
 ---
 
