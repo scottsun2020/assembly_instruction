@@ -2,6 +2,10 @@
 
 > **Purpose**: This document explains how to assemble the PCB test stand shown below.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b39a6659-3642-47ea-9729-08cb558ee2eb" width="400"/>
+</p>
+
 ## 1) Overview
 
 A compact, rigid test stand built from 2020 aluminum extrusions and printed/metal corner brackets. It provides:
