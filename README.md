@@ -53,7 +53,7 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 - Soft‑jaw pliers (optional for rod ends)
 - Spirit level (optional)
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b7128ef-6d07-41df-b696-d0f98b1f4d09" width="400"/>
+  <img src="https://github.com/user-attachments/assets/ea7b504b-ec18-4b36-bf3b-9bb37c2a1a6c" width="400"/>
 </p>
 
 ---
