@@ -128,3 +128,10 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 
 ---
 
+### Reference and Compare
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3bed645f-9836-4981-8ff5-11c5312947b3" width="400"/>
+  <img src="https://github.com/user-attachments/assets/acbaef7e-c183-47fd-91e3-cd5a5abcfa0b" width="400"/>
+</p>
+
