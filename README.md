@@ -121,6 +121,13 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 2. Verify spacing matches your target PCB. Adjust/add hole adapters if needed.  
 3. Add **thumb screws** or M3 screws from top to secure the PCB during tests.
 
+![IMG_8602](https://github.com/user-attachments/assets/f7056a92-ff27-441c-ac38-8fb89491d9c7)
+![IMG_8603](https://github.com/user-attachments/assets/f183a103-90b1-49fb-8005-fe385094ed4f)
+![IMG_8604](https://github.com/user-attachments/assets/80ae46e8-0bfc-4b04-8ca7-9cf6dedb1da4)
+![IMG_8605](https://github.com/user-attachments/assets/e062767d-826c-4a64-89a5-79fd4c313140)
+![IMG_8628](https://github.com/user-attachments/assets/1870e2fd-38e0-4253-91ed-a68dda9ce514)
+
+
 ### F. Final Tightening & Safety
 - Re‑check all joints; apply medium threadlocker where final.  
 - Confirm there are **no sharp edges** protruding into operator area.  
