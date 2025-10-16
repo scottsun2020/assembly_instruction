@@ -13,7 +13,53 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 ---
 
 ## 2) Bill of Materials (BOM)
-(keep your existing table here)
+
+| # | Item | Spec / Notes | Qty |
+|---|------|---------------|-----|
+| 1 | 2020 aluminum extrusion – **base rails** | Length: __TODO__ mm (2 pcs) | 2 |
+| 2 | 2020 aluminum extrusion – **uprights** | Length: __TODO__ mm (2 pcs) | 2 |
+| 3 | 2020 aluminum extrusion – **crossbars** | Length: __TODO__ mm (2 pcs) | 2 |
+| 4 | **Base plate** (machined/printed) | Hole pattern for M3/M4/M5; countersunk | 1 |
+| 5 | **Corner brackets** (yellow in photo) | L or triangular plates | 4 large + 2 triangular |
+| 6 | **Linear guide rods** | Ø __TODO__ mm × __TODO__ mm | 2 |
+| 7 | **Crosshead carriage blocks** | Slide on rods; includes clamp screws | 2 |
+| 8 | **Rod ends / ball joints** | For linkage/fixture (seen at front) | 2 |
+| 9 | **PCB standoffs** | M3 × __TODO__ height | 4–6 |
+| 10 | End caps for 2020 | Plastic | 4 |
+| 11 | T‑nuts (drop‑in or roll‑in) | M5 for extrusion slots | ~40 |
+| 12 | Socket head screws | M5×8/10/12 (for brackets/extrusions) | ~40 |
+| 13 | Base plate screws | M4/M5 as needed, with washers | 8 |
+| 14 | Washers & spring washers | M5 | as req. |
+| 15 | Threadlocker | Medium strength (Loctite 243) | — |
+| 16 | Optional feet | Rubber bumpers | 4 |
+
+> **Note:** Fill in `__TODO__` lengths to match your cut stock. If you standardize to 250/300/350 mm, note it here.
+
+---
+
+## 3) Required Tools
+
+- 3 mm & 4 mm hex keys (for M5 hardware)
+- 2.5 mm hex (if using M4 screws)
+- Torque wrench with hex bits (range 2–6 N·m) — _optional but recommended_
+- Digital calipers or steel ruler
+- Small square for squaring the frame
+- Marker/tape for part labeling
+- Threadlocker (medium strength)
+- Soft‑jaw pliers (optional for rod ends)
+- Spirit level (optional)
+
+---
+
+## 4) Preparation
+
+1. **Label** every extrusion with masking tape (`Base‑L`, `Base‑R`, `Upright‑L`, `Upright‑R`, `X‑Bar‑Top`, `X‑Bar‑Bottom`).  
+2. **Deburr** aluminum ends. Blow out chips from T‑slots.  
+3. **Pre‑load T‑nuts** in each slot you’ll need. It’s much easier than adding them later.  
+4. **Dry‑fit** brackets and confirm hole alignment on the base plate.
+
+> **Torque guideline**: For **M5** in aluminum, tighten to **3–4 N·m** (hand‑snug + 1/8 turn). Use **threadlocker** on joints you don’t plan to re‑position.
+
 ---
 
 ## 5) Assembly Steps
