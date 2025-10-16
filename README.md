@@ -95,7 +95,14 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 3. Using a small **square**, set each upright to 90° relative to the base. Tighten bracket screws to **3–4 N·m**.  
 4. Fit the **triangular side plates** to tie the uprights to the base rails. Tighten to 3–4 N·m.
 
-### C. Fit Linear Guide & Crosshead
+### C. Install Crossbars
+1. Add the **two horizontal 2020 crossbars** between uprights at the top and mid‑section using M5 screws/T‑nuts in the side slots.  
+2. Ensure both crossbars are level and parallel; then tighten to 3–4 N·m. These can support probe holders, cameras, or cable guides.
+![IMG_8575](https://github.com/user-attachments/assets/a647061d-2ba7-4299-83a3-c3778472c2be)
+![IMG_8579](https://github.com/user-attachments/assets/8c77d821-9efb-42ad-86d4-ed23b6cda994)
+![IMG_8580](https://github.com/user-attachments/assets/724e79f0-94b9-45ae-9648-893e274513ae)
+
+### D. Fit Linear Guide & Crosshead
 1. Insert the **linear rods** through the **lower carriage blocks**, then into the **upper blocks** mounted on the crosshead brackets.  
 2. Slide the assembly between uprights. Secure the **rod clamps** (on the yellow crosshead pieces) so the crosshead moves smoothly without racking.  
 3. Adjust the **block spacing** so both rods are parallel and the crosshead does not bind. Tighten the clamp screws lightly (≈2 N·m).
@@ -107,14 +114,6 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 ![IMG_8598](https://github.com/user-attachments/assets/7f15b0a8-f7f1-4cb6-8119-b950b32c33b1)
 ![IMG_8600](https://github.com/user-attachments/assets/9eb64cc9-5ce1-439d-8147-57d75ded625c)
 ![IMG_8601](https://github.com/user-attachments/assets/17711f1e-83ec-445c-b210-b20d132f27c9)
-
-
-### D. Install Crossbars
-1. Add the **two horizontal 2020 crossbars** between uprights at the top and mid‑section using M5 screws/T‑nuts in the side slots.  
-2. Ensure both crossbars are level and parallel; then tighten to 3–4 N·m. These can support probe holders, cameras, or cable guides.
-![IMG_8575](https://github.com/user-attachments/assets/a647061d-2ba7-4299-83a3-c3778472c2be)
-![IMG_8579](https://github.com/user-attachments/assets/8c77d821-9efb-42ad-86d4-ed23b6cda994)
-![IMG_8580](https://github.com/user-attachments/assets/724e79f0-94b9-45ae-9648-893e274513ae)
 
 
 ### E. Mount PCB Standoffs
