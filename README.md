@@ -83,6 +83,11 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 **Square & Level Check**  
 - Measure the base plate **edge to rail** distances on both sides; make them equal.  
 - Tighten base plate screws uniformly to ~3 N·m.
+![IMG_8557](https://github.com/user-attachments/assets/0e8c1453-8dce-4799-92e4-8485a1d21f99)
+![IMG_8558](https://github.com/user-attachments/assets/b2b21553-c631-4fb5-8b44-877691925c19)
+![IMG_8563](https://github.com/user-attachments/assets/87a78bab-399e-4591-bdfe-68ef30659f05)
+![IMG_8576](https://github.com/user-attachments/assets/36b4b0dc-3bfa-40c7-8b99-6cb4e9a08e83)
+![IMG_8570](https://github.com/user-attachments/assets/448e788d-51f6-454b-ac56-1b69abe3acaf)
 
 ### B. Install Uprights
 1. Bolt **L‑brackets** to the rails at the back corners (left/right). Leave screws **finger‑tight**.  
