@@ -105,6 +105,10 @@ A compact, rigid test stand built from 2020 aluminum extrusions and printed/meta
 ### D. Install Crossbars
 1. Add the **two horizontal 2020 crossbars** between uprights at the top and mid‑section using M5 screws/T‑nuts in the side slots.  
 2. Ensure both crossbars are level and parallel; then tighten to 3–4 N·m. These can support probe holders, cameras, or cable guides.
+![IMG_8575](https://github.com/user-attachments/assets/a647061d-2ba7-4299-83a3-c3778472c2be)
+![IMG_8579](https://github.com/user-attachments/assets/8c77d821-9efb-42ad-86d4-ed23b6cda994)
+![IMG_8580](https://github.com/user-attachments/assets/724e79f0-94b9-45ae-9648-893e274513ae)
+
 
 ### E. Mount PCB Standoffs
 1. Thread **M3 standoffs** into the base plate’s mounting pattern.  
